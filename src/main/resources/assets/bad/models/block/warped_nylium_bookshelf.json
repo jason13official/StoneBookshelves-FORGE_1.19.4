@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/warped_nylium",
+    "side": "bad:block/warped_nylium_bookshelf"
+  }
+}

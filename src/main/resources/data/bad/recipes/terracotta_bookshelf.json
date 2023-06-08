@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "BBB",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:terracotta"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "bad:terracotta_bookshelf"
+  }
+}

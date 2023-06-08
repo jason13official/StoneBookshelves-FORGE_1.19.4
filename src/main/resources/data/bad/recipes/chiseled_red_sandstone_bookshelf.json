@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "BBB",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:chiseled_red_sandstone"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "bad:chiseled_red_sandstone_bookshelf"
+  }
+}

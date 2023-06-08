@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "BBB",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:oxidized_copper"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "bad:oxidized_copper_bookshelf"
+  }
+}

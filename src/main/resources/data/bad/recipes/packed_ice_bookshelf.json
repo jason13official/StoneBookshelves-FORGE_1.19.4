@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "BBB",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:packed_ice"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "bad:packed_ice_bookshelf"
+  }
+}

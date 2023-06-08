@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "BBB",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:purpur_block"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "bad:purpur_block_bookshelf"
+  }
+}

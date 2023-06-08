@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/fire_coral_block",
+    "side": "bad:block/fire_coral_block_bookshelf"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/dead_horn_coral_block",
+    "side": "bad:block/dead_horn_coral_block_bookshelf"
+  }
+}

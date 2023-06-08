@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/copper_block",
+    "side": "bad:block/copper_block_bookshelf"
+  }
+}

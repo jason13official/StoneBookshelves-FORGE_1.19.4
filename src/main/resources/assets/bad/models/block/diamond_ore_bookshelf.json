@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/diamond_ore",
+    "side": "bad:block/diamond_ore_bookshelf"
+  }
+}

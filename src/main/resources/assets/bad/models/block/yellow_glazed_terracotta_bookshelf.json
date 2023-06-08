@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/yellow_glazed_terracotta",
+    "side": "bad:block/yellow_glazed_terracotta_bookshelf"
+  }
+}

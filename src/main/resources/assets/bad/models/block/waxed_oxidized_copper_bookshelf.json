@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/waxed_oxidized_copper",
+    "side": "bad:block/waxed_oxidized_copper_bookshelf"
+  }
+}

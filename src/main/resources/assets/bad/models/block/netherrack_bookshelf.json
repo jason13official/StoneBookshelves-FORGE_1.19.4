@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/netherrack",
+    "side": "bad:block/netherrack_bookshelf"
+  }
+}

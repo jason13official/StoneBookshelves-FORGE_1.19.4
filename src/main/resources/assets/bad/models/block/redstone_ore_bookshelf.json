@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/redstone_ore",
+    "side": "bad:block/redstone_ore_bookshelf"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/smooth_stone",
+    "side": "bad:block/smooth_stone_bookshelf"
+  }
+}

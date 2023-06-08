@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/andesite",
+    "side": "bad:block/andesite_bookshelf"
+  }
+}

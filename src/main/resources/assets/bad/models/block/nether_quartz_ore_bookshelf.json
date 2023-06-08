@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/nether_quartz_ore",
+    "side": "bad:block/nether_quartz_ore_bookshelf"
+  }
+}

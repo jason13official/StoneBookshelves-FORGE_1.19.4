@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/magma",
+    "side": "bad:block/magma_bookshelf"
+  }
+}

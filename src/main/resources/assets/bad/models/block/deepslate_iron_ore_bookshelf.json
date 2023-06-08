@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/deepslate_iron_ore",
+    "side": "bad:block/deepslate_iron_ore_bookshelf"
+  }
+}
